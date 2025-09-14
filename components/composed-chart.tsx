@@ -44,7 +44,7 @@ export function ChartComposed() {
     return (
       <div className="space-y-4">
         <div className="space-y-1">
-          <h3 className="text-lg font-semibold">Indicadores Costos</h3>
+          <h3 className="text-lg font-semibold">Indicadores Costos 01</h3>
           <p className="text-sm text-muted-foreground">Cargando datos...</p>
         </div>
         <div className="min-h-[400px] w-full flex items-center justify-center">
