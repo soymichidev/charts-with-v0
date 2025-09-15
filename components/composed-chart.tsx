@@ -57,7 +57,7 @@ export function ChartComposed() {
   return (
     <div className="space-y-4">
       <div className="space-y-1">
-        <h3 className="text-lg font-semibold">Indicadores Costos goku</h3>
+        <h3 className="text-lg font-semibold">Indicadores Costos goku david</h3>
         <p className="text-sm text-muted-foreground">Inversión, CPM y CPC por Día</p>
       </div>
 
